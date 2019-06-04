@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Test Todo from database",
+      "isComplete": true
+    },
+    {
+      "name": "asd",
+      "isComplete": false,
+      "id": 2
+    },
+    {
+      "name": "zxczxc",
+      "isComplete": true,
+      "id": 3
+    },
+    {
+      "name": "rrrr",
+      "isComplete": false,
+      "id": 4
+    }
+  ]
+}
